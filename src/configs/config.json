@@ -1,0 +1,221 @@
+{
+    "bot": {
+        "secret": {
+            "token": "ODA0MzQ3Mzc3NzkxNDAxOTg0.YBLA3g.Zst2lEtYXspb06d_qO7flLloOTk"
+        },
+        "prefix": "pg ",
+        "color": "#f3ff08",
+        "help": {
+            "areas": [
+                {
+                    "name": "Furry Commands",
+                    "value": "Use `pg help furry`",
+                    "inline": true
+                },
+                {
+                    "name": "Meme Commands",
+                    "value": "Use `pg help meme`",
+                    "inline": true
+                },
+                {
+                    "name": "Bot Commands",
+                    "value": "Use `pg help bot`",
+                    "inline": true
+                },
+                {
+                    "name": "Admin Commands",
+                    "value": "Use `pg help admin`",
+                    "inline": true
+                },
+                {
+                    "name": "Money Commands",
+                    "value": "Use `pg help money`",
+                    "inline": true
+                }
+            ],
+            "furry": [
+                {
+                    "name": "r/furry_irl",
+                    "value": "Pull some posts from r/furry_irl. `pg r/furry`",
+                    "inline": true
+                },
+                {
+                    "name": "r/furry",
+                    "value": "Pull some posts from r/furry. `pg r/furry`",
+                    "inline": true
+                },
+                {
+                    "name": "pat",
+                    "value": "Pat someone nwn. `pg pat <@user>`",
+                    "inline": true
+                },
+                {
+                    "name": "wag",
+                    "value": "Wag your tail :3. `pg wag`",
+                    "inline": true
+                },
+                {
+                    "name": "fursona",
+                    "value": "Generate a fursona. Use `pg fursona <name> <gender>`",
+                    "inline": true
+                },
+                {
+                    "name": "bap",
+                    "value": "Bap a snoot. `pg bap <@user>`",
+                    "inline": true
+                },
+                {
+                    "name": "boop",
+                    "value": "Boop a snoot. `pg boop <@user>`",
+                    "inline": true
+                },
+                {
+                    "name": "owoify",
+                    "value": "OwOify text. `pg owoify [type(0/1/2)] <text here>`",
+                    "inline": true
+                }
+            ],
+            "meme": [
+                {
+                    "name": "reddit",
+                    "value": "Pull posts from reddit. `pg reddit <subreddit> [amount] [allow-spoilers[y/n]]`",
+                    "inline": true
+                },
+                {
+                    "name": "gayrate",
+                    "value": "Rate your gayness or someone elses! `pg gayrate [@user]`",
+                    "inline": true
+                },
+                {
+                    "name": "murder",
+                    "value": "Murder someone(Mutes a mentioned user for 30m. If bot goes down they will stay muted.) `pg murder <@user>`",
+                    "inline": true
+                },
+                {
+                    "name": "hit",
+                    "value": "Hit someone. `pg hit <@user>`",
+                    "inline": true
+                }
+            ],
+            "bot": [
+                {
+                    "name": "suggest",
+                    "value": "Suggest ideas for the bot. `pg suggest <suggestion>`",
+                    "inline": true
+                },
+                {
+                    "name": "news",
+                    "value": "Get the latest news about this bot! `pg news [all]`",
+                    "inline": true
+                },
+                {
+                    "name": "finish",
+                    "value": "Bot owner only command",
+                    "inline": true
+                },
+                {
+                    "name": "hello",
+                    "value": "Have Protogen say hello for you!",
+                    "inline": true
+                }
+            ],
+            "admin": [
+                {
+                    "name": "ban",
+                    "value": "Ban a user from the server. `pg ban <@user> [reason for ban]`",
+                    "inline": true
+                },
+                {
+                    "name": "kick",
+                    "value": "Kick a user from the server. `pg kick <@user> [reason for kick]`",
+                    "inline": true
+                }
+            ],
+            "money": [
+                {
+                    "name": "join",
+                    "value": "Join Protogen to use other money commands. `pg join`",
+                    "inline": true
+                },
+                {
+                    "name": "bal",
+                    "value": "Check your account balance. `pg bal`",
+                    "inline": true
+                },
+                {
+                    "name": "guessgame",
+                    "value": "Play a guessing game! `pg guessgame`",
+                    "inline": true
+                },
+                {
+                    "name": "gamble",
+                    "value": "Gamble your money to win or lose! `pg gamble <number/'all'>`",
+                    "inline": true
+                },
+                {
+                    "name": "blackjack",
+                    "value": "More gambling but this time its a game! `pg blackjack <number/'all'>`",
+                    "inline": true
+                },
+                {
+                    "name": "leave",
+                    "value": "Delete your Protogen account. CAN NOT BE UNDONE!!! `pg leave`",
+                    "inline": true
+                }
+            ]
+        },
+        "banned_subreddits": [
+            "r/cursedimages"
+        ],
+        "fursona": {
+            "species": [
+                "Wolf",
+                "Fox",
+                "Cat",
+                "Tiger",
+                "Lion",
+                "Dog",
+                "Protogen",
+                "Sergal",
+                "Dragon",
+                "Lizard",
+                "Mouse",
+                "Rabbit",
+                "Arctic Fox",
+                "Red Panda",
+                "Raccoon",
+                "Otter",
+                "Weasel",
+                "Coyote",
+                "Hyena",
+                "Cheetah",
+                "Bat",
+                "Kangaroo",
+                "Horse",
+                "Deer",
+                "Sheep",
+                "Fennec",
+                "Husky",
+                "Bear",
+                "Bird",
+                "Tanuki",
+                "Squirrel"
+            ],
+            "body_types": [
+                "Jacked",
+                "Buff",
+                "Muscles",
+                "Skinny",
+                "Lean",
+                "Twink",
+                "Femboy",
+                "Petite",
+                "Slightly Chubby",
+                "Chubby",
+                "Fat",
+                "Thick",
+                "Extra Thick"
+            ]
+        }
+    }
+}

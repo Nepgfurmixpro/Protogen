@@ -1,0 +1,16 @@
+{
+  "name": "protogen",
+  "version": "1.0.0",
+  "description": "A furry bot for discord UwU",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Nepgfurmixpro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "owoify-js": "^1.0.7"
+  }
+}
