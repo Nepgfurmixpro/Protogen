@@ -1,16 +1,4 @@
 {
     "news": [
-        {
-            "version": "2.1.6",
-            "info": "Gambling OwO"
-        },
-        {
-            "version": "2.0.5",
-            "info": "Added a news command! Also Protogen is being worked on a lot so expect a lot of updates and downtime"
-        },
-        {
-            "version": "2.0.4",
-            "info": "Added ban and kick commands"
-        }
     ]
 }
